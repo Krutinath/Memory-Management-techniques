@@ -1,4 +1,3 @@
 # Operating-System
-Scheduling Algorithms
-jvhjbjnj
-jygj
+#Scheduling Algorithms
+klhgyuf
